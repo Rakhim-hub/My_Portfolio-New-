@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": " Junior Web Development Engineer - Intern",
+    "organisation": "WeKnow Technologies Private Limited",
+    "startDate": "03 June, 2024",
+    "endDate": "Present ",
+    "location": "Lucknow, Uttar Pradesh",
+    "experiences": [
+      " Web Development at WeKnow Technologies Private Limited!",
+      "Worked with the WeKnow Technologies Private Limited"
+    ],
+    "imageSrc": "company/weknow.png"
+  },
+  {
+    "id": 2,
+    "role": "Full-Stack Web Development ",
+    "organisation": "Udemy",
+    "startDate": "Dec, 2024",
+    "endDate": "May, 2025 ,",
+    "location": "Remote",
+    "experiences": [
+      "Complete Full-Stack Web Development Bootcamp",
+      "by Dr. Angela Yu on Udemy."
+    ],
+    "imageSrc": "company/udamy.png"
+  },
+  {
+    "id": 3,
+    "role": "Become WordPress Developer ",
+    "organisation": "Udemy",
+    "startDate": "Apr, 2025 ,",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Become WordPress Developer Bootcamp",
+      "by Dr. Brad Schiff on Udemy."
+    ],
+    "imageSrc": "company/udamy.png"
+  }
+]

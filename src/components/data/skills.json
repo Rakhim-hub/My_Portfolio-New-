@@ -1,0 +1,64 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+   {
+    "title": "Bootstrap (Framework)",
+    "imageSrc": "skills/boot.svg"
+  },
+   {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+   {
+    "title": "Embedded JavaScript (EJS)",
+    "imageSrc": "skills/ejs.png"
+  },
+   {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+   {
+    "title": "REST APIs",
+    "imageSrc": "skills/restapi.png"
+  },
+ 
+ 
+  {
+    "title":"Postman API",
+    "imageSrc":"skills/postman.png"
+  },
+  {
+    "title": "Git/Github",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+   {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.webp"
+  },
+   {
+    "title": "JQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+   {
+    "title": "PostgreSql",
+    "imageSrc": "skills/postgresql.png"
+  }
+]
