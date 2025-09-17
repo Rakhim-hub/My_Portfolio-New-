@@ -28,6 +28,14 @@
     "imageSrc": "skills/node.png"
   },
    {
+    "title": "Express.Js",
+    "imageSrc": "skills/es.png"
+  },
+  {
+    "title": "Next.Js",
+    "imageSrc": "skills/next.png"
+  },
+   {
     "title": "REST APIs",
     "imageSrc": "skills/restapi.png"
   },
